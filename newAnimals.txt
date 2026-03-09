@@ -1,0 +1,14 @@
+Zoo Population Report
+----------------------
+Hyena: Placeholder Name, 4 years old.
+Hyena: Placeholder Name, 12 years old.
+Lion: Placeholder Name, 6 years old.
+Lion: Placeholder Name, 12 years old.
+tiger: Placeholder Name, 4 years old.
+bear: Placeholder Name, 18 years old.
+
+Total Counts:
+hyena: 2
+bear: 1
+tiger: 1
+lion: 2
